@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basiljose172
-- 👀 I’m interested in computer networking and ethical hacking
-- 🌱 I’m currently learning MTEch in Software Engg @CUSAT Kalamassery
-- 💞️ I’m looking to collaborate on networking
+- 👀 I’m interested in computer networking and programming
+- 🌱 I’m currently working as a Project Engineer at CDAC Thiruvananthapuram
+- 💞️ I’m looking to collaborate on networking and programming
 - 📫 How to reach me basiljose172@gmail.com
 
 <!---
